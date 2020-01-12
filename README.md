@@ -1,6 +1,6 @@
 # digital_clock
 
-A new Flutter application.
+This is Digital clock developed in Flutter. Clock combines the latest UI face with combination of Digital and Analog. 
 
 ## Getting Started
 
